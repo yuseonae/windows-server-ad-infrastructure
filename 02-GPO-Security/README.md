@@ -146,7 +146,7 @@ gpresult
 Group Policy 적용 여부 확인
 계정 정책 적용 상태 확인
 Event Viewer 보안 로그 확인
-
+```
 ---
 
 ## 5. Result
