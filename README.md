@@ -81,13 +81,21 @@ Group Policy 기반 운영 보안 정책을 적용하여 사용자 환경 및 �
 ## Repository Structure
 
 
+```text
 windows-server-ad-infrastructure
 
 ├── 01-AD-DS-DNS
+│   └── README.md
+│
 ├── 02-GPO-Security
+│   └── README.md
+│
 ├── 03-FileServer-AGDLP
+│   └── README.md
+│
 └── docs
-└── images
+    └── images
+```
 
 
 ---
@@ -96,9 +104,9 @@ windows-server-ad-infrastructure
 
 - Windows Server Administration
 - Active Directory
-- DNS
 - Group Policy
+- DNS
 - File Server
-- NTFS Permission
 - AGDLP
-- Backup & Restore
+- NTFS Permission
+- Windows Server Backup
