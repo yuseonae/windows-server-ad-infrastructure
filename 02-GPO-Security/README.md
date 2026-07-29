@@ -66,7 +66,7 @@ Group Policy
 
 ## 4. Implementation
 
-## 4.1 OU 기반 정책 적용 구조 설계
+### 4.1 OU 기반 정책 적용 구조 설계
 
 Active Directory 환경에서 조직 구조에 맞는 OU를 구성하고,
 OU 단위로 Group Policy를 적용할 수 있도록 정책 적용 구조를 설계하였습니다.
@@ -86,7 +86,7 @@ OU 단위로 정책 적용 범위를 구분하여
 
 ---
 
-## 4.2 Password Policy 구성
+### 4.2 Password Policy 구성
 
 도메인 사용자 계정 보안을 강화하기 위해
 Group Policy 기반 Password Policy를 적용하였습니다.
@@ -101,7 +101,7 @@ Group Policy 기반 Password Policy를 적용하였습니다.
 
 ---
 
-## 4.3 Account Lockout Policy 구성
+### 4.3 Account Lockout Policy 구성
 
 반복적인 로그인 실패를 통한 비정상 접근을 방지하기 위해
 Account Lockout Policy를 구성하였습니다.
@@ -117,7 +117,7 @@ Account Lockout Policy를 구성하였습니다.
 
 ---
 
-## 4.4 USB 저장장치 접근 통제 정책 구성
+### 4.4 USB 저장장치 접근 통제 정책 구성
 
 비인가 저장장치를 통한 데이터 반출을 방지하기 위해
 Group Policy 기반 USB 접근 통제 정책을 적용하였습니다.
@@ -130,7 +130,7 @@ Group Policy 기반 USB 접근 통제 정책을 적용하였습니다.
 
 ---
 
-## 4.5 정책 적용 및 검증
+### 4.5 정책 적용 및 검증
 
 구성한 보안 정책이 정상적으로 적용되는지 확인하기 위해
 클라이언트 환경에서 정책 검증을 수행하였습니다.
