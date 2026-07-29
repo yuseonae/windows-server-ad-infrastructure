@@ -149,7 +149,7 @@ Event Viewer 보안 로그 확인
 
 ---
 
-## 5. Result
+## 5\. Result
 Active Directory 기반 보안 정책 중앙 관리 환경 구축
 OU 기반 정책 적용 구조 구현
 사용자 계정 보안 강화
@@ -158,7 +158,7 @@ OU 기반 정책 적용 구조 구현
 
 ---
 
-## 6. Skills
+## 6\. Skills
 Active Directory
 Group Policy Management
 Password Policy
