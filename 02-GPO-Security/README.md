@@ -146,13 +146,19 @@ gpresult
 Group Policy 적용 여부 확인
 계정 정책 적용 상태 확인
 Event Viewer 보안 로그 확인
-5. Result
+
+---
+
+## 5. Result
 Active Directory 기반 보안 정책 중앙 관리 환경 구축
 OU 기반 정책 적용 구조 구현
 사용자 계정 보안 강화
 비인가 USB 저장장치 사용 통제 환경 구성
 정책 적용 및 검증 절차 확보
-6. Skills
+
+---
+
+## 6. Skills
 Active Directory
 Group Policy Management
 Password Policy
